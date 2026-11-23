@@ -5,7 +5,11 @@
 - Kelas :   PSIK 24C
 
 ## Tangkapan Layar Aplikasi
+
+Mode Terang
 ![mode terang](<mode terang.png>)
+
+Mode Gelap
 ![mode gelap](<mode gelap.png>)
 
 ## Diagram Widget Tree
